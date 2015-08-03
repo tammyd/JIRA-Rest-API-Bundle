@@ -12,6 +12,12 @@
             "role": "Developer"
         }
     ],
+    "repositories" : [
+      {
+        "url" : "git@github.com:tammyd/JIRA-Rest-API-PHP.git",
+        "type" : "vcs"
+      }
+    ],
     "require": {
         "php": ">=5.3.2",
         "symfony/framework-bundle": "~2.3",
